@@ -12,6 +12,7 @@ Zend Engine v3.0.0-dev, Copyright (c) 1998-2015 Zend Technologies
 ## Requirements
 
 * Vagrant
+* [optional] Vagrant [cachier plugin](https://github.com/fgrehm/vagrant-cachier)
 
 ## Usage
 
